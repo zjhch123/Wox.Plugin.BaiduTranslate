@@ -1,0 +1,12 @@
+{
+    "ID":"11a6dfac-adc3-40ab-8eb0-8c93bbfc3ed9",
+    "ActionKeyword":"fy",
+    "Name":"Translate",
+    "Description":"Translate",
+    "Author":"Jiahao.Zhang",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"https://github.com/zjhch123/Wox-Plugin-Translate",
+    "IcoPath":".\\Images\\icon.png",
+    "ExecuteFileName":"main.py"
+}
